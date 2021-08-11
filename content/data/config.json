@@ -159,5 +159,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://learning-stackbit-3b3e0.netlify.app"
 }
